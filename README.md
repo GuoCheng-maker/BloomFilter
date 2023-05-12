@@ -6,7 +6,7 @@ Bloom Filter is a Python package for implementing a simple Bloom filter, a space
 
 To install Bloom Filter, simply run the following command:
     
-    pip install bloom-filter
+    pip install bloom_filter
 
 
 ## Usage
