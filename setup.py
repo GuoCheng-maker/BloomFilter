@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='bloom_filter',
-    version='1.0.0',
+    name='fast-bf',
+    version='1.1.1',
     url='https://github.com/GuoCheng-maker/bloom_filter.git',
     author='Cheng.guo',
     author_email='guocheng6868@126.com',
-    description='A short description of your package',
+    description='A fast bloom filter implementation in Python',
     packages=find_packages(),
     install_requires=[
         # add any dependencies here
