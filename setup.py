@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fast-bf',
-    version='1.1.0',
+    version='1.1.1',
     url='https://github.com/GuoCheng-maker/bloom_filter.git',
     author='Cheng.guo',
     author_email='guocheng6868@126.com',
