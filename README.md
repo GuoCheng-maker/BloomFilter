@@ -8,6 +8,12 @@ To install Bloom Filter, simply run the following command:
     
     pip install fast-bf
 
+## Problem
+    1.Solving Redis cache penetration.
+    2.During web crawling, filter out URLs that already exist in the Bloom filter and do not crawl them.
+    3.For spam email filtering, judge whether the sending email address is in the Bloom blacklist, and if so, classify it as spam.
+    4.When dealing with large amounts of data, check if the given data is included.
+    5.This is referred to as blacklist filtering.
 
 ## Usage
 
